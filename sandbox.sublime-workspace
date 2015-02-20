@@ -1,0 +1,395 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mo",
+				"movie-two-towers"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"si",
+				"site-footer"
+			],
+			[
+				"h",
+				"min-height"
+			],
+			[
+				"an",
+				"animate-gallery"
+			],
+			[
+				"site",
+				"site-title"
+			],
+			[
+				"bor",
+				"border-top-left-radius"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"has",
+				"hasError"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"va",
+				"validateEmail"
+			],
+			[
+				"in",
+				"inputs"
+			],
+			[
+				"to",
+				"toBeRemoved"
+			],
+			[
+				"er",
+				"errors"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"eror",
+				"errors"
+			],
+			[
+				"first",
+				"firstError"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"error",
+				"errorField"
+			],
+			[
+				"firt",
+				"firstName"
+			],
+			[
+				"fo",
+				"Form"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"Me",
+				"merriweather"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"text-a",
+				"text-transform"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"background",
+				"background-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/CPT270/a2/includes/validate.php",
+		"/C/xampp/htdocs/btb_sandbox/uploads/filetest.txt",
+		"/C/xampp/htdocs/btb_sandbox/file_read.php",
+		"/C/xampp/htdocs/widget_corp/includes/functions.php",
+		"/C/xampp/htdocs/widget_corp/includes/db_connection.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/sandbox/array_functions.php",
+		"/C/xampp/htdocs/sandbox/arrays.php",
+		"/C/xampp/htdocs/sandbox/break.php",
+		"/C/xampp/htdocs/sandbox/form_single.php",
+		"/C/xampp/htdocs/sandbox/included_functions.php",
+		"/C/xampp/htdocs/sandbox/type_casting.php",
+		"/C/xampp/htdocs/sandbox/template.html",
+		"/C/Program Files/Sublime Text 2/sublime_text.exe",
+		"/C/xampp/htdocs/CPT270/Assignment/Assignment 1 - s3503598.txt",
+		"/C/xampp/htdocs/CPT270/Assignment/index.html",
+		"/C/xampp/htdocs/CPT270/Assignment/gallery.html",
+		"/C/xampp/htdocs/CPT270/Assignment/cast.html",
+		"/C/xampp/htdocs/CPT270/Assignment/video.html",
+		"/C/xampp/htdocs/CPT270/Assignment/shop.html",
+		"/C/xampp/htdocs/CPT270/Assignment/animate.html",
+		"/C/xampp/htdocs/CPT270/Assignment/css/animate_custom.css",
+		"/C/xampp/htdocs/CPT270/Assignment/css/animate.css",
+		"/C/xampp/htdocs/CPT270/Assignment/registration.html",
+		"/C/xampp/htdocs/CPT270/Assignment/js/fancybox/source/jquery.fancybox.css",
+		"/C/xampp/htdocs/CPT270/Assignment/css/style.css",
+		"/C/xampp/htdocs/CPT270/Assignment/js/form_validation.js",
+		"/C/xampp/htdocs/CPT270/Assignment/shopping.html",
+		"/C/xampp/htdocs/CPT270/Assignment/css/nivo-slider.css",
+		"/C/xampp/htdocs/CPT270/Assignment/blank.html",
+		"/C/Users/Steven/Dropbox/RMIT/CPT270/Week 1/My First HTML Page.html",
+		"/C/xampp/htdocs/steven/Week 2/samplePage.html",
+		"/C/xampp/htdocs/steven/Week 2/samplePage.css",
+		"/C/Users/Steven/Dropbox/RMIT/CPT270/Week 2/samplePage.css",
+		"/C/Users/Steven/Dropbox/RMIT/CPT270/Week 2/samplePage.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"‘",
+			"®",
+			"’",
+			"”",
+			"“",
+			"zoom",
+			"  ",
+			"’",
+			"”",
+			"“"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&lsquo;",
+			"&reg;",
+			"&rsquo;",
+			"&rdquo;",
+			"&ldquo;",
+			"  ",
+			" ",
+			"&rsquo;",
+			"&rdquo;",
+			"&ldquo;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true
+}
