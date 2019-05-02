@@ -8,7 +8,7 @@
 	<body>
 		<?php
 		
-			$numbers = array(4,8,15,16,23,42);
+			$numbers = [4,8,15,16,23,42];
 			echo $numbers[0];
 		?>
 		<br />
